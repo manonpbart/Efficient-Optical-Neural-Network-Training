@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following preprint."
+authors:
+  - family-names: "Bart"
+    given-names: "Manon P."
+  - family-names: "Sparks"
+    given-names: "Nick"
+  - family-names: "Glasser"
+    given-names: "Ryan T."
+title: "Machine-Learning-for-Optical-Communication"
+version: "1.0.0"
+
+preferred-citation:
+  type: article
+  title: "Efficient Training for Optical Computing"
+  authors:
+    - family-names: "Bart"
+      given-names: "Manon P."
+    - family-names: "Sparks"
+      given-names: "Nick"
+    - family-names: "Glasser"
+      given-names: "Ryan T."
+  year: 2025
+  archivePrefix: "arXiv"
+  eprint: "2506.20833"
+  primaryClass: "physics.optics"
+  url: "https://arxiv.org/abs/2506.20833"
