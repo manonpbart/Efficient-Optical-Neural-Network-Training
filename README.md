@@ -6,9 +6,9 @@ This project uses a optics-informed backpropagation algorithm to train diffracti
 3) Optical neural network training algorithm
 4) Arbitrary optical linear transformation generator
 
-If you use this code, we ask that you cite this preprint:
+If you use this code, we ask that you cite this article:
 
-Bart, Manon P., Nick Sparks, and Ryan T. Glasser. "Efficient Training for Optical Computing." arXiv preprint arXiv:2506.20833 (2025).
+Bart, M.P., Sparks, N., & Glasser, R. (2025). Efficient training for optical computing. Machine Learning: Science and Technology, 7.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -37,7 +37,7 @@ The training algorithm uses a Fourier-decomposition based backpropagation algori
 
 <img width="382" height="185" alt="Screenshot 2025-10-10 at 6 39 05 PM" src="https://github.com/user-attachments/assets/b601511f-d424-4091-b6be-f929ab185855" />
 
-Beyond the novel training algorithm, several features are available in the code to stabilize learning for optical architectures including gradient normalization, learning rate decay, auxillary gradient stabilization functions, and categorical cross entropy loss. Further information on the physics behind the algorithm, wokring architecture examples and features is available in the aformentioned preprint.
+Beyond the novel training algorithm, several features are available in the code to stabilize learning for optical architectures including gradient normalization, learning rate decay, auxillary gradient stabilization functions, and categorical cross entropy loss. Further information on the physics behind the algorithm, wokring architecture examples and features is available in the aformentioned article.
 
 ---
 
